@@ -51,11 +51,12 @@ function Contact(props) {
               <br />
               <br />
               <a {...styles} className="general-btn" href={greeting.resumeLink}>
-                See my Resumeeeee
+                See my
               </a>
             </div>
           </div>
         </Fade>
+
         <Fade bottom duration={1000} distance="40px">
           <div className="blog-heading-div">
             <div className="blog-heading-text-div">
