@@ -19,7 +19,7 @@
 
 - Clone this repository (or fork, then clone your fork :) )
 - Run `npm i`
-- Check it out using `npm start`
+- Check it out usin`npm start`
 
 # How Do I Customize
 
