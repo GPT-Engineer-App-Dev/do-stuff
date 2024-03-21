@@ -71,7 +71,7 @@ function Contact(props) {
               </p>
               <div className="blogsite-btn-div">
                 <a {...styles} className="general-btn" href={blogSection.link}>
-                  My Mediudsadssdsadasm
+                  My dsaads
                 </a>
               </div>
             </div>
